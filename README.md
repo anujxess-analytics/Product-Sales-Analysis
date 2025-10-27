@@ -1,10 +1,13 @@
 🏷️ Title
+
 Product Sales Analysis Dashboard – Power BI Project
 
 📰 Headline
+
 An interactive and data-driven Power BI dashboard designed to analyze product sales, payment modes, and regional performance using real-world business datasets.
 
 🧾 Short Description / Purpose
+
 The purpose of this project is to provide a comprehensive analysis of product sales performance across multiple dimensions — including product categories, states, payment types, and managers.
 This dashboard helps in identifying key business insights such as:
 
@@ -14,6 +17,7 @@ This dashboard helps in identifying key business insights such as:
 4. The goal is to transform raw data into meaningful insights that can drive strategic decision-making and business growth.
 
 🧰 Tech Stack
+
 Tool / Technology	Purpose
 Power BI Desktop -	For data modeling, visualization, and report creation
 Power Query -	For data cleaning and transformation
@@ -22,6 +26,7 @@ Excel -	For raw data storage and structuring
 Star Schema Data Modeling -	For efficient relationship building between fact and dimension tables
 
 📊 Data Source
+
 This project uses multiple Excel files as data sources:
 Sales_Data.xlsx – Contains sales transactions with quantity, amount, and manager info.
 ProductTable.xlsx – Details of each product with ID and name.
