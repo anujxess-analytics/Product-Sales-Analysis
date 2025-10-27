@@ -59,3 +59,7 @@ Created measures like Total Sales, Average Sales, and Quantity Sold to analyze p
 
 💡 User-Friendly Design:
 The dashboard layout focuses on clarity, interactivity, and data storytelling — allowing even non-technical users to explore the data intuitively.# Product-Sales-Analysis
+
+Screenshot
+
+[Dashboard Preview](https://github.com/anujxess-analytics/Product-Sales-Analysis/blob/main/Product%20Sales%20Analysis%20Dashboard.png)
